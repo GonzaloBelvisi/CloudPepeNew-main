@@ -197,10 +197,10 @@ Este proyecto fue desarrollado como parte de una tesis académica.
 
 ## 👥 Autor
 
-Desarrollado para el proyecto de tesis.
+Desarrollado por Gonzalo Belvisi
 
 ---
 
 **Versión**: 1.0.0  
-**Última actualización**: 2024
+**Última actualización**: 2025
 
